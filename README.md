@@ -1,24 +1,31 @@
 <h1 align="center">Hi 👋, I'm Bishal Kc</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate frontend developer from Nepal, Dang-Lamahi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaleyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="bishaleyyyyy" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishaleyyyyy" alt="bishaleyyyyy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dope.bishal" target="blank"><img src="https://img.shields.io/twitter/follow/dope.bishal?logo=twitter&style=for-the-badge" alt="dope.bishal" /></a> </p>
 
+- 🔭 I’m currently working on **Frontend Projects**
+
 - 🌱 I’m currently learning **Full Stack Web Development.**
+
+- 📝 I regularly write articles on [https://medium.com/@bishalskylord](https://medium.com/@bishalskylord)
 
 - 💬 Ask me about **UI, Frontend Technologies.**
 
 - 📫 How to reach me **techbishsal566@gmail.com**
+
+- ⚡ Fun fact **Python was not named after a snake**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dope.bishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dope.bishal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bishal-kc-4a8b01293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-kc-4a8b01293" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26854831/bishal-kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26854831/bishal-kc" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61552514731636&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61552514731636&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/dope.bishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dope.bishal" height="30" width="40" /></a>
 <a href="https://www.behance.net/bishalkc7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bishalkc7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bishalskylord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishalskylord" height="30" width="40" /></a>
