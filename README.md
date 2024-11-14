@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaleyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="bishaleyyyyy" /> </p>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA5NzU2NzgsIm5iZiI6MTczMDk3NTM3OCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA3VDEwMjkzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxODMzZGU0YmIyNjQ2OTFkZTEwM2EwYzEwNzUyMTY5NzMyMWRhZmMwZTI4MWNlZmI5MGQ4NGFiYjY0YjM4OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sWxKzMcaq5-Iw3qkKL7eh2aMLoIosLz7HN48Ks4aXMw">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishaleyyyyy" alt="bishaleyyyyy" /></a> </p>
 
