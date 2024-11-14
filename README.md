@@ -8,7 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaleyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="bishaleyyyyy" /> </p>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishaleyyyyy" alt="bishaleyyyyy" /></a> </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
+
 
 <p align="left"> <a href="https://twitter.com/dope.bishal" target="blank"><img src="https://img.shields.io/twitter/follow/dope.bishal?logo=twitter&style=for-the-badge" alt="dope.bishal" /></a> </p>
 
